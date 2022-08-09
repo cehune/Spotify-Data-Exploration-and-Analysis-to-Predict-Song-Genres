@@ -22,9 +22,11 @@ I will be using the following Technologies:
 **Example Graphs**
 
 During exploratory analysis, I found a high variance within the acousticness column in particular. In graphing it, I found that genres were highly distinct in their acousticness level. 
+
 ![image](https://user-images.githubusercontent.com/71574223/183154632-7c0cd139-8faf-42a9-8f34-c3c7d65ef8f7.png)
 
 I was curious about the relation of energy and danceability, though I found there isn't a clear positive relation.
+
 ![image](https://user-images.githubusercontent.com/71574223/183154765-321b1b52-1511-4f41-bc41-be35efcb491b.png)
 
 
