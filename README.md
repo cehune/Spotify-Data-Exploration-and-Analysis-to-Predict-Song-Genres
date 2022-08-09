@@ -20,7 +20,9 @@ I will be using the following Technologies:
 
 
 Example Graphs
+
 ![image](https://user-images.githubusercontent.com/71574223/183154632-7c0cd139-8faf-42a9-8f34-c3c7d65ef8f7.png)
+
 ![image](https://user-images.githubusercontent.com/71574223/183154765-321b1b52-1511-4f41-bc41-be35efcb491b.png)
 
 
